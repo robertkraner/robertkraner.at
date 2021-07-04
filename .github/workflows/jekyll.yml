@@ -16,7 +16,7 @@ jobs:
    
     - name: GitHub Modifications
       run: |
-        echo "baseurl: robertkraner.at" >> _config.yml
+        echo "baseurl: /robertkraner.at" >> _config.yml
       
     - name: Build the site in the jekyll/builder container
       run: |
