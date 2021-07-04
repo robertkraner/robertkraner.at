@@ -177,7 +177,7 @@ social:
   - title: "facebook"
     url: "https://www.facebook.com/robert.kraner.37"
   - title: "rss"
-    url: "/feed.xml"
+    url: "feed.xml"
 
 ############
 # 404 page #
