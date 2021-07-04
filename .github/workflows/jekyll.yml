@@ -13,6 +13,11 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+   
+    - name: GitHub Modifications
+      run: |
+        echo "baseurl: robertkraner.at" >> _config.yml
+      
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
