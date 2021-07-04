@@ -42,7 +42,7 @@ favicon: "/img/favicon.ico"
   # black-favicon: "/img/Iconsmind-Outline-Pen.ico"
   #logo: "" # leave blank if you don't want a logo
 
-background-img: "../img/pexels-negative-space-34587.jpg"
+background-img: "../img/banner.jpg"
 
 ##############################
 # Dynamic Text on the Header #
