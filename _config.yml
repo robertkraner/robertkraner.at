@@ -203,8 +203,8 @@ keybase-in-footer: False
 pages_list:
   Über: 'about'
     #  Blog: 'latest-post'
-  Publikationen: 'publikationen'
   Bücher: 'buecher'
+  Publikationen: 'publikationen'
 #  Timeline: 'timeline'
   Kontakt: 'contact'
 
