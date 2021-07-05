@@ -4,6 +4,14 @@
 @import "variables";
 @import "mixins";
 
+
+
+#copyright {
+	display: flex;
+	justify-content: flex-end;
+}
+
+
 /*!
  * Start Bootstrap - Grayscale Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
