@@ -42,7 +42,7 @@ favicon: "/img/favicon.ico"
   # black-favicon: "/img/Iconsmind-Outline-Pen.ico"
   #logo: "" # leave blank if you don't want a logo
 
-background-img: "../img/banner.jpg"
+background-img: "../img/banner.webp"
 # background-img: "../img/Robert_Kraner.png"
 
 ##############################
@@ -65,7 +65,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Ein Herz über dem Staub"
 
 #me-img: "/img/jetpacktocat.png"
-me-img: "/img/Robert_Kraner_me.jpeg"
+me-img: "/img/author.webp"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
