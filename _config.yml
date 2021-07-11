@@ -42,8 +42,8 @@ favicon: "/img/favicon.ico"
   # black-favicon: "/img/Iconsmind-Outline-Pen.ico"
   #logo: "" # leave blank if you don't want a logo
 
-# background-img: "../img/banner.jpg"
-background-img: "../img/Robert_Kraner.png"
+background-img: "../img/banner.jpg"
+# background-img: "../img/Robert_Kraner.png"
 
 ##############################
 # Dynamic Text on the Header #

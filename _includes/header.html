@@ -8,9 +8,9 @@
             <h1 class="brand-heading">&nbsp;</h1>
             <a href="#{{ site.pages_list['About'] }}" class="page-scroll">
               {% if site.me-img contains "https://" %}
-                <!-- img class="img-me" src="{{ site.me-img }}" alt="" -->
+                <img class="img-me" src="{{ site.me-img }}" alt="">
               {% else %}
-                <!-- img class="img-me" src="{{site.baseurl}}{{ site.me-img }}" alt="" -->
+                <img class="img-me" src="{{site.baseurl}}{{ site.me-img }}" alt="" >
               {% endif %}
             </a>
             <h5>&nbsp;</h5>
@@ -22,6 +22,4 @@
 </header>
 
 <!-- Intro End -->
-<div id="copyright">
-	<a href="https://www.markusroessle.com">@Markus Rössle</a>
-</div>
+
