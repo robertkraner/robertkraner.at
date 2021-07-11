@@ -206,6 +206,7 @@ pages_list:
   Bücher: 'buecher'
   Publikationen: 'publikationen'
 #  Timeline: 'timeline'
+  Links: 'links'
   Kontakt: 'contact'
 
 # Exclusion list from the generated _site
