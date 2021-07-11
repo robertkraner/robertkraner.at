@@ -42,5 +42,4 @@ jobs:
         password: ${{ secrets.FTP_PASS }}
         server-dir: webroot/
         local-dir: _site/
-        exclude: 
-          - stats 
+        exclude: [stats]
