@@ -14,9 +14,10 @@ jobs:
     steps:
     - uses: actions/checkout@v2
    
-    - name: GitHub Modifications
-      run: |
-        echo "baseurl: /robertkraner.at" >> _config.yml
+      # for github-pages
+      #    - name: GitHub Modifications
+      #      run: |
+      #        echo "baseurl: /robertkraner.at" >> _config.yml
       
     - name: Build the site in the jekyll/builder container
       run: |
@@ -24,15 +25,6 @@ jobs:
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
           
-    - name: Deploy to GitHub Pages
-      if: success()
-      uses: crazy-max/ghaction-github-pages@v2
-      with:
-        target_branch: gh-pages
-        build_dir: _site
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
     - name: Deploy to World4You
       if: success()
       uses: SamKirkland/FTP-Deploy-Action@4.1.0
@@ -43,3 +35,12 @@ jobs:
         server-dir: webroot/
         local-dir: _site/
         exclude: "[stats]"
+
+          #    - name: Deploy to GitHub Pages
+          #      if: success()
+          #      uses: crazy-max/ghaction-github-pages@v2
+          #      with:
+          #        target_branch: gh-pages
+          #        build_dir: _site
+          #      env:
+          #        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
