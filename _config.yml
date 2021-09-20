@@ -31,8 +31,8 @@ force-https: False
 lang: "de"
 author: "Robert Kraner"
 title: "Robert Kraner"
-description: "Persönliche Website des Authors und Schriftsteller Robert Kraner."
-keywords: "author, robert kraner, valerie, weißdorn, kreide, österreich, schriftsteller, literatur, literat, waldviertel"
+description: "Persönliche Website des Autors und Schriftstellers Robert Kraner."
+keywords: "autor, robert kraner, valerie, weißdorn, kreide, österreich, schriftsteller, literatur, literat, waldviertel"
 favicon: "/img/favicon.ico"
 
 ################
