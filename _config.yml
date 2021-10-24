@@ -33,7 +33,7 @@ author: "Robert Kraner"
 title: "Robert Kraner"
 description: "Persönliche Website des Autors und Schriftstellers Robert Kraner."
 keywords: "autor, robert kraner, valerie, weißdorn, kreide, österreich, schriftsteller, literatur, literat, waldviertel"
-favicon: "/img/favicon.ico"
+# favicon: "/img/favicon.ico"
 
 ################
 # Header layout #
