@@ -55,7 +55,7 @@ loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 40
 start-delay: 500
-delete-delay: 5000
+delete-delay: 2000
 lines: # You can add HTML Tags in the Text
   - text: "Ein freier Platz"
   - text: "Auf Papier ist vonnöten"
