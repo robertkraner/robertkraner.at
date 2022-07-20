@@ -4,7 +4,7 @@ section-type: post
 title: "schreibwerkstatt waldvietel" - Lesung und Musik
 ---
 Gustav Ernst: "Liebesszenen"
-Anna Waeidenholzer: "Die Pistenführung und der Präsident"
+Anna Weidenholzer: "Die Pistenführung und der Präsident"
 Robert Schindel: "Neue Gedichte"
 Teilnehmer:innen der Schreibklassen "Werkstatttexte"
 Gloria Damijan und Michael Franz Woels: CALL OUR SHIFTS, Musik.
