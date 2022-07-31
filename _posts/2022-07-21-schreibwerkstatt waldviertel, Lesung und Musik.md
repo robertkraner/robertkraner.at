@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: "schreibwerkstatt waldvietel" - Lesung und Musik
+title: schreibwerkstatt waldvietel - Lesung und Musik
 ---
 Gustav Ernst: "Liebesszenen"
 
