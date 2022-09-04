@@ -6,7 +6,7 @@ title: LESUNG UND MUSIK IN KLEINPERTHOLZ
 Dienstag, 13. September 2022, 18:30 Uhr
 Tagesstätte Zuversicht
 Klein Pertholz 26, 3860 Heidenreichstein
-Die AutoR:innen der Schreibwerkstatt der Tages-
+Die Autor:innen der Schreibwerkstatt der Tages-
 stätte Zuversicht, die schon erfolgreich am
 Literaturpreis „Ohrenschmaus“ teilgenommen
 haben, lesen aus ihrem Werk. Unter anderem
