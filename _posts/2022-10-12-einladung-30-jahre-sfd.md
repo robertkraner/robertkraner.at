@@ -12,4 +12,4 @@ auftretende dichterInnenbands: dental princes, erstes wiener heimorgelorchester,
 die schule für dichtung war für mich und die "schreibwerkstatt waldviertel" eine wichtige geburtshelferin.
 ich widme ihr zum 30er mein heutiges gedicht
 
-kein schnee im oktober / der wind kämmt / bäume und wiesen /  / krähen jubilieren / mehr licht! / das dunkel glänzt
+kein schnee im oktober / der wind kämmt / bäume und wiesen / krähen jubilieren / mehr licht! / das dunkel glänzt
