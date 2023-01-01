@@ -33,9 +33,18 @@
         <p/>
       {% endif %}
 
-      {% if site.impressum %}
-        {{ site.impressum }}
+      {% if site.author %}
+        <p>{{ site.author }}</p>
       {% endif %}
+      {% if site.address %}
+        <p>{{ site.address }}</p>
+        {% if site.zipcode %}
+          <p>{{ site.zipcode }}</p>
+        {% endif %} 
+      {% endif %}    
+      {% if site.mobilephone %}
+        <p>{{ site.mobilephone }}</p>
+      {% endif %} 
     </div>
   </div>
 </section>
