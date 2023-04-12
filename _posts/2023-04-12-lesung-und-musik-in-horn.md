@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: LESUNG UND MUSIK IN HORN
 ---
-die "schreibwerkstatt waldviertel" gibt's nun seit 20 Jahren. Gefeiert wird das im September. Vorerst im "Normalporgramm" gibt es wieder einen spannenden öffentlichen Terminim Rahmen der aktuellen Schreibwerkstatt:
+die "schreibwerkstatt waldviertel" gibt's nun seit 20 Jahren. Gefeiert wird das im September. Vorerst im "Normalporgramm" gibt es wieder einen spannenden öffentlichen Termin im Rahmen der aktuellen Schreibwerkstatt:
 
 Sa, 15. April 2023 - Lesung und Musik
 Lesung und Musik: Anna-Elisabeth Mayer »Kreidezeit«
