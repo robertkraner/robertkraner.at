@@ -19,4 +19,4 @@ Teilnehmende der Schreibwerkstatt
 Eintritt: freie Spende
 [www.schreibwerkstatt.at](https://www.schreibwerkstatt.at/termine/)
 
-Kontakt und Information: Robert Kraner, +43 676 39 24 859
+Kontakt und Information: Robert Kraner, +43 676 39 24 858
