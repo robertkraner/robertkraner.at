@@ -10,7 +10,7 @@ Samstag, 22.07.2023, 19:00 Uhr, Kunsthaus, Wiener Straße 2, 3580 Horn.
 
 Gustav Ernst, "ARBEITERKINO. Leben im Zehnten" work in progress.
 
-Robert Schindel,"Flussgang" Gedichte.
+Robert Schindel, "Flussgang" Gedichte.
 
 Anna Weidenholzer, "Finde einem Schwan ein Boot", Roman.
 
