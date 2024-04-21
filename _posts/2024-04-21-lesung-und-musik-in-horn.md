@@ -14,8 +14,8 @@ Marko Dinić aus seinem entstehenden zweiten Roman
 
 Lydia Mischkulnig aus »Die Gemochten«
 
-Musik: Musik von Bad Ida: Ines Dallaji - Gesang und Alexander Lausch - Gitarre
+Musik von Bad Ida: Ines Dallaji - Gesang und Alexander Lausch - Gitarre
 
-In Kooperation mit "Frau Hofer in der Bücherstube" und dem Kunstverein Horn.
+In Kooperation mit »Frau Hofer in der Bücherstube« und dem Kunstverein Horn.
 
 [www.schreibwerkstatt.at](https://www.schreibwerkstatt.at/termine/)
