@@ -4,7 +4,7 @@ section-type: post
 title: ERDKRÜMEL UND STERNENSTAUB
 ---
 Ich schlicke Zitronenwasser / 
-Wird wohl auch staub mitgeh'n / 
+Wird wohl auch Staub mitgeh'n / 
 Sich absetzen / 
 Einsetzen / 
 Durchsetzen / 
