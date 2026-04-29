@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Schreiben oder singen - Literatur livein Horn
+title: Schreiben oder singen - Literatur live in Horn
 ---
 die "schreibwerkstatt waldviertel" liest in Horn
 
