@@ -15,4 +15,4 @@ ein neuer versuch
 von der Quelle ins Meer und von dort, als Tsunami, in die Menschenwelt.Ein Buch für alle, die das Wasser lieben und schätzen.Der gesamte Erlös aus dem 
 Buchverkauf fließt in das Projekt „Welt Wasser Cent“, womit nachhaltige Wasserprojekte für Menschen finanziert werden, die keinen Zugang zu einer gesicherten 
 Wasserversorgung haben.
-Der Eintritt ist frei.
+Der Eintritt ist frei
