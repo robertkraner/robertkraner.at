@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: schmiegt sich fremdem an - lesung in Hietzing
+title: schmiegt sich fremdem an - lesung in hietzing
 ---
 einladung zur lesung aus dem buch: »schmiegt sich fremdem an«
 am sonntag, 8.11.2026, um 16 uhr, hietzinger hauptstraße 98, souterrain, 1130 wien.
