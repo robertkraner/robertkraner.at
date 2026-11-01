@@ -3,6 +3,7 @@ layout: post
 section-type: post
 title: schreibwerkstatt waldvietel - Lesung und Musik
 ---
+
 Gustav Ernst: "Liebesszenen"
 
 Anna Weidenholzer: "Die Pistenführung und der Präsident"
