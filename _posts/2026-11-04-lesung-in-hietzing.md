@@ -8,7 +8,7 @@ hietzinger hauptstraße 98
 1130 wien
 
 »schmiegt sich fremdem an« ist ein interdisziplinäres und generationenübergreifendes kunstbuch zum element wasser
-eine reiseerzählung über den weg des wssers von der quelle ins meer und von dort, als tsunami, in die menschenwelt
+eine reiseerzählung über den weg des wassers von der quelle ins meer und von dort, als tsunami, in die menschenwelt
 
 ein buch für alle, die das wasser lieben und schätzen
 
